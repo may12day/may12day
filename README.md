@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Mayank Devnani</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=may12day&style=plastic" alt="may12day" /> </p>
-<a href="https://may12day.github.io/"><img align="right" alt="Coding" width="490" height = "400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></a>
+<a href="https://may12day.github.io/"><img align="right" alt="Coding" width="450" height = "380" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></a>
 
 
 # 💫 About Me :
@@ -52,8 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=may12day&show_icons=true&theme=buefy) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=may12day&show_icons=true&locale=en&layout=compact&theme=buefy)
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://github-readme-streak-stats.herokuapp.com?user=may12day&&theme=buefy)
+ ![](https://github-readme-streak-stats.herokuapp.com?user=may12day&&theme=buefy)
 
 <div align="center">
 
