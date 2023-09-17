@@ -12,9 +12,7 @@
 🤼 I’m looking to collaborate on (open source) projects <br>
 <br> 
 📩 Reach out to me at maydev22@gmail.com <br> 
-<br> 
-🫢 <strong>Fun Fact</strong> : Click on the <strong>GIF</strong> to open my <strong> Personal Website</strong> 🙂 <br> 
-<br> 
+<br>  
 
 # 🌐 Connect with me :
 <p>
