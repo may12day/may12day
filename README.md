@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Mayank Devnani</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=may12day&style=plastic" alt="may12day" /> </p>
-<a href="https://may12day.github.io/"><img align="right" alt="Coding" width="420" height = "380" src="https://github.com/may12day/Sorting-Visualizer/assets/26703868/7d00f27f-34ac-4477-a4e6-590e3116b2b7"></a>
+<a href="https://may12day.github.io/"><img align="right" alt="Coding" width="420" height="380" src="https://github.com/may12day/Sorting-Visualizer/assets/26703868/7d00f27f-34ac-4477-a4e6-590e3116b2b7"></a>
 
 
 # 💫 About Me :
