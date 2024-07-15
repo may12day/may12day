@@ -5,7 +5,7 @@
 
 # 💫 About Me :
 
-- 🔭 I'm currently working as SWE at [Palo Alto Networks](https://www.paloaltonetworks.com/) 🌐🔒🕵️‍♂️💯
+- 🔭 I'm currently working as a SWE at [Palo Alto Networks](https://www.paloaltonetworks.com/) 🌐🔒🕵️‍♂️💯
   
 - 🌱 I'm interested in the intersection of AI (specifically NLP and GNN) and Software Development
   
